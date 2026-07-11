@@ -1,4 +1,4 @@
-//https://youtu.be/gCjaezKTOd8
+//https://www.youtube.com/watch?v=gCjaezKTOd8&t=4s
 PImage lineas;
 int separacionLineas = 30;
 float angulo = 0;
